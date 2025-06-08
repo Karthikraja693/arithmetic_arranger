@@ -1,4 +1,5 @@
 # arithmetic_arranger
+Build an Arithmetic Formatter Project
 Students in primary school often arrange arithmetic problems vertically to make them easier to solve. For example, "235 + 52" becomes:
 
   235
@@ -39,6 +40,10 @@ There should be four spaces between each problem.
 There should be dashes at the bottom of each problem. The dashes should run along the entire length of each problem individually. (The example above shows what this should look like.)
 Note: open the browser console with F12 to see a more verbose output of the tests.
 
+Run the Tests (Ctrl + Enter)
+Save your Code
+Revert to Saved Code
+Get Help
 Tests
 Waiting:1. arithmetic_arranger(["3801 - 2", "123 + 49"]) should return   3801      123\n-    2    +  49\n------    -----.
 Waiting:2. arithmetic_arranger(["1 + 2", "1 - 9380"]) should return   1         1\n+ 2    - 9380\n---    ------.
